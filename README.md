@@ -9,7 +9,7 @@
 <h2>Comment écrire du code?</h2>
 <p>Les noms des dossiers correspondent aux noms des exercices, et dans chaque dossier vous verrez 2 fichiers:
 <ul>
-<li>Le fichier <code>index.js</code> où se trouve la signature de la fonction à écrire.C'est le seul fichier avec lequel vous allez travailler</li>
+<li>Le fichier <code>index.js</code> où se trouve la signature de la fonction à écrire.C'est le seul fichier avec lequel vous allez travailler.Et pour chaque fonction, il y a son explication dans les commentaires</li>
 <li>Le fichier <code>test.js</code>où j'ai mis les codes des tests unitaires.Vous ne devez pas y toucher</li>
 </ul>
 </p>
