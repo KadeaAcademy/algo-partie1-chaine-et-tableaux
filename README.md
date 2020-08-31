@@ -26,6 +26,7 @@
   L'exerice est considéré comme une réussite si tous les test réussissent.Et cas d'échec,vous pouvez regarder dans le rapport du test.
   N'hésitez pas à tester votre fonction dans la console du navigateur.
   </ul> 
+  Voici la vidéo qui illustre l'utilisation des fichier et le processus de test : <a href="https://res.cloudinary.com/jochri3/video/upload/v1598857752/videos/problem_solving_guide.mp4">Comment tester le code</a>
 </p>
 <hr />
 <h2>Critère pour chaque exercice</h2>
